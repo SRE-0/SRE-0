@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://SRE-0">SRE-0</a></h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="[https://i.imgur.com/weNbhGZ.png](https://github.com/SRE-0/SRE-0/blob/90a97a564019ec898fbf6a22afc2c59fd2004cf2/githubBanner.png)">
 
 
 ## Hi there 👋
