@@ -19,7 +19,7 @@
 I merge technology and art with intention. I code in Kotlin, write ideas, and learn nonstop.
 Always looking to create with purpose (and a touch of style).
 
-♥️ Kotlin fanboy and cats
+♥️ Kotlin fanboy and I love cats
 
 <!--
 **SRE-0/SRE-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
