@@ -3,6 +3,7 @@
 </div>
 <img src="https://github.com/SRE-0/SRE-0/blob/90a97a564019ec898fbf6a22afc2c59fd2004cf2/githubBanner.png">
 
+## 🛠️ Tech Stack
 [![Telegram Channel](https://img.shields.io/badge/Telegram-SRE__dev-blue?logo=telegram&style=flat)](https://t.me/SRE_dev)
 [![GitHub Followers](https://img.shields.io/github/followers/SRE-0?style=flat&label=Seguidores&logo=github)](https://github.com/SRE-0?tab=followers)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin) 
