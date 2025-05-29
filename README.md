@@ -5,12 +5,12 @@
 
 ## 🛠️ Tech Stack
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-SRE__dev-0088CC?logo=telegram&style=flat-square)](https://t.me/SRE_dev)
-[![GitHub Followers](https://img.shields.io/github/followers/SRE-0?style=flat-square&label=Seguidores&logo=github&color=24292e)](https://github.com/SRE-0?tab=followers)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-SRE__dev-0088CC?logo=telegram&style=for-the-badge&logoColor=white)](https://t.me/SRE_dev)
+[![GitHub Followers](https://img.shields.io/github/followers/SRE-0?style=for-the-badge&label=Seguidores&logo=github&color=24292e&logoColor=white)](https://github.com/SRE-0?tab=followers)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 🚀 About Me
 
