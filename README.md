@@ -1,7 +1,10 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://SRE-0">SRE-0</a></h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://github.com/SRE-0/SRE-0/blob/90a97a564019ec898fbf6a22afc2c59fd2004cf2/githubBanner.png)">
+<img src="https://github.com/SRE-0/SRE-0/blob/90a97a564019ec898fbf6a22afc2c59fd2004cf2/githubBanner.png">
+
+##badge personalizados
+[![Telegram Channel](https://img.shields.io/badge/Telegram-SRE__dev-blue?logo=telegram&style=flat)](https://t.me/SRE_dev)
 
 
 ## Hi there 👋
