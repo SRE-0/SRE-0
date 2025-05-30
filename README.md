@@ -7,10 +7,15 @@
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-SRE__dev-0088CC?logo=telegram&style=for-the-badge&logoColor=white)](https://t.me/SRE_dev)
 [![GitHub Followers](https://img.shields.io/github/followers/SRE-0?style=for-the-badge&label=Seguidores&logo=github&color=24292e&logoColor=white)](https://github.com/SRE-0?tab=followers)
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ## 🚀 About Me
 
@@ -42,9 +47,6 @@ Here are some ideas to get you started:
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/SRE-0">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SRE-0&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/SRE-0">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SRE-0&layout=compact&langs_count=8&theme=catppuccin_mocha"/>
   </a>
 </p>
 
