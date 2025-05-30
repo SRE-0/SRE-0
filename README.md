@@ -3,7 +3,7 @@
 </div>
 <img src="https://github.com/SRE-0/SRE-0/blob/90a97a564019ec898fbf6a22afc2c59fd2004cf2/githubBanner.png">
 
-## 📒 Contact me
+## 📒 Contact Me
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-SRE__dev-0088CC?logo=telegram&style=for-the-badge&logoColor=white)](https://t.me/SRE_dev)
 [![Email](https://img.shields.io/badge/Gmail-sergioandresp660@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergioandresp660@gmail.com)
