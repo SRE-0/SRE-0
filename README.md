@@ -3,24 +3,15 @@
 </div>
 <img src="https://github.com/SRE-0/SRE-0/blob/90a97a564019ec898fbf6a22afc2c59fd2004cf2/githubBanner.png">
 
-## 📒 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-sergioandresp660@gmail.com-red?style=social&logo=gmail)](mailto:sergioandresp660@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@SRE__dev-blue?style=social&logo=telegram)](https://t.me/SRE_dev)
-![GitHub Followers](https://img.shields.io/github/followers/SRE-0?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/SRE-0?style=social)
-
-
 ## 🛠️ Tech Stack
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ## 🚀 About Me
 
@@ -30,6 +21,14 @@ I merge technology and art with intention. I code in Kotlin, write ideas, and le
 Always looking to create with purpose (and a touch of style).
 
 ♥️ Kotlin fanboy and I love cats
+
+
+## 📒 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-sergioandresp660@gmail.com-red?style=social&logo=gmail)](mailto:sergioandresp660@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@SRE__dev-blue?style=social&logo=telegram)](https://t.me/SRE_dev)
+![GitHub Followers](https://img.shields.io/github/followers/SRE-0?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/SRE-0?style=social)
 
 <!--
 **SRE-0/SRE-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
