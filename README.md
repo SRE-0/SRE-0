@@ -26,7 +26,7 @@ Always looking to create with purpose (and a touch of style).
 ## Contact Me
 
 [![Email](https://img.shields.io/static/v1?label=Email&message=sergioandresp660@gmail.com&color=D14836&labelColor=101010&logo=gmail&logoColor=white&style=for-the-badge)](mailto:sergioandresp660@gmail.com)
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@SRE__dev&color=26A5E4&labelColor=101010&logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/SRE_dev)
+[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@SRE_dev&color=26A5E4&labelColor=101010&logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/SRE_dev)
 
 
 <!--
