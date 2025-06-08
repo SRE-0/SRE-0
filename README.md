@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 -->
 
 
-## ⚙️ GitHub Analytics
+## GitHub Analytics
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/SRE-0">
