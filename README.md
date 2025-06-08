@@ -4,9 +4,7 @@
 <img src="https://github.com/SRE-0/SRE-0/blob/90a97a564019ec898fbf6a22afc2c59fd2004cf2/githubBanner.png">
 
 ## 📒 Contact Me
-[![Telegram Channel](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel?style=social&logo=telegram)](https://t.me/SRE_dev)
+[![Telegram](https://img.shields.io/badge/telegram/Telegram-Join%20Channel?style=social&logo=telegram)](https://t.me/SRE_dev)
 [![Email](https://img.shields.io/gmail/follow/sre-0?style=social)](mailto:sergioandresp660@gmail.com)
 
 ![GitHub Followers](https://img.shields.io/github/followers/SRE-0?style=social)
