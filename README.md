@@ -1,16 +1,19 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://SRE-0">SRE-0</a></h1>
 </div>
-<img src="https://github.com/SRE-0/SRE-0/blob/90a97a564019ec898fbf6a22afc2c59fd2004cf2/githubBanner.png">
+
+<p align="center">
+  <img 
+    src="https://github.com/SRE-0/SRE-0/blob/90a97a564019ec898fbf6a22afc2c59fd2004cf2/githubBanner.png"
+    alt="SRE-0" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);"
+  >
+</p>
+
 
 <!--## 🛠️ Tech Stack-->
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=101010)
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white&labelColor=101010)
+<p align="center">
+ <a href="#"><img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&color=7aa2f7&labelColor=1a1b26&logo=kotlin&logoColor=white"/></a>  <a href="#"><img src="https://img.shields.io/badge/Git-black?style=for-the-badge&color=f7768e&labelColor=1a1b26&logo=git&logoColor=white"/></a>  <a href="#"><img src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&color=73daca&labelColor=1a1b26&logo=sqlite&logoColor=white"/></a>  <a href="#"><img src="https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&color=9ece6a&labelColor=1a1b26&logo=android-studio&logoColor=white"/></a>  <a href="#"><img src="https://img.shields.io/badge/Arduino-black?style=for-the-badge&color=7dcfff&labelColor=1a1b26&logo=arduino&logoColor=white"/></a>
+</p>
 
 
 ## About Me
@@ -25,8 +28,10 @@ Always looking to create with purpose (and a touch of style).
 
 ## Contact Me
 
-[![Email](https://img.shields.io/static/v1?label=Email&message=sergioandresp660@gmail.com&color=D14836&labelColor=101010&logo=gmail&logoColor=white&style=for-the-badge)](mailto:sergioandresp660@gmail.com)
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@SRE_dev&color=26A5E4&labelColor=101010&logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/SRE_dev)
+<p align="center">
+  <a href="mailto:sergioandresp660@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&color=f7768e&labelColor=1a1b26&logo=gmail&logoColor=white"/></a>  <a href="https://t.me/SRE_dev"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&color=7dcfff&labelColor=1a1b26&logo=telegram&logoColor=white"/></a>  <a href="https://sre-0.github.io/SRE-0_web"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&color=bb9af7&labelColor=1a1b26&logo=google-chrome&logoColor=white"/></a>
+</p>
+
 
 
 <!--
