@@ -26,7 +26,8 @@ Always looking to create with purpose (and a touch of style).
 ## Contact Me
 
 <p align="center">
-  <a href="mailto:sergioandresp660@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&color=f7768e&labelColor=1a1b26&logo=gmail&logoColor=white"/></a>  <a href="https://t.me/SRE_dev"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&color=7dcfff&labelColor=1a1b26&logo=telegram&logoColor=white"/></a>  <a href="https://sre-0.github.io/SRE-0_web"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&color=bb9af7&labelColor=1a1b26&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:sergioandresp660@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&color=f7768e&labelColor=1a1b26&logo=gmail&logoColor=white"/></a>
+<a href="https://sre-0.github.io/SRE-0_web"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&color=bb9af7&labelColor=1a1b26&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 
